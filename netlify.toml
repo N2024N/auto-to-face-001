@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/chatbot/*"
+  to = "http://123.60.219.148/chatbot/:splat"  # Dify 的 HTTP 地址
+  status = 200
+  force = true  # 强制将 HTTP 请求转换为 HTTPS
