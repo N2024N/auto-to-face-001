@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/chatbot/:path*", "destination": "http://123.60.219.148/chatbot/:path*" }
+  ]
+}
